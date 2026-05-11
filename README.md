@@ -37,17 +37,17 @@ The electrical system of the LiDAR Scout Rover was designed to connect the rover
 
 The rover uses a 6S LiPo battery as the main power source. Since different components require different voltages, buck converters are used to step the battery voltage down to the required levels for the onboard electronics. This allows the rover to power higher-demand components while also providing regulated voltage for devices such as the Raspberry Pi, Arduino, sensors, and motor control hardware.
 
-<!-- Insert electrical power distribution diagram here -->
+Insert electrical power distribution diagram here -->
 
 The Arduino Mega is used for low-level control and sensor input. It interfaces with the motor shield to control the rover's DC motors and also reads analog data from the gas sensors. The MQ-2 sensor is used for detecting smoke, LPG, and combustible gases, while the MQ-3 sensor is used for alcohol vapor detection. These sensors provide environmental awareness that can be used alongside the rover's mapping and navigation features.
 
-<!-- Insert Arduino, motor shield, and gas sensor wiring diagram here -->
+Insert Arduino, motor shield, and gas sensor wiring diagram here -->
 
 The Raspberry Pi 5 is used as the onboard computing device for connecting higher-level sensors and bridging data into the ROS 2 system. It handles communication with the LiDAR and camera while sending sensor data to the external workstation for mapping, visualization, and navigation. This separation allows the Arduino to focus on low-level hardware control while the Raspberry Pi and workstation handle more demanding processing tasks.
 
 The rover's electrical layout was organized to keep wiring accessible and reduce clutter inside the chassis. Power lines, signal wires, and sensor connections were routed to make debugging and maintenance easier. This was important because the rover required multiple devices to operate together, including the battery system, buck converters, Arduino Mega, Raspberry Pi 5, motor shield, gas sensors, LiDAR, and camera.
 
-<!-- Insert full electrical system block diagram here -->
+Insert full electrical system block diagram here -->
 
 Key electrical features include:
 - 6S LiPo battery used as the main power source
@@ -60,11 +60,11 @@ Key electrical features include:
 
 ### Electrical Images
 
-<!-- Insert battery and power distribution image here -->
+Insert battery and power distribution image here -->
 
-<!-- Insert Arduino Mega and motor shield image here -->
+Insert Arduino Mega and motor shield image here -->
 
-<!-- Insert gas sensor wiring image here -->
+Insert gas sensor wiring image here -->
 
-<!-- Insert Raspberry Pi / onboard electronics image here -->
+Insert Raspberry Pi / onboard electronics image here -->
 ## Software
