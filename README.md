@@ -23,15 +23,15 @@ Key mechanical features include:
 ### Mechanical Images
 | Chassis Assembly | Finished Rover |
 |---|---|
-| ![Chassis Assembly](Rover/Semester1_Images/Mechanical/Chassis.jpeg) | ![Finished Rover](Rover/Semester2_Images/Mechanical/Final_Rover1.png) |
+| <img src="Rover/Semester1_Images/Mechanical/Chassis.jpeg" width="400"> | <img src="Rover/Semester2_Images/Mechanical/Final_Rover1.png" width="400"> |
 
 | Fusion 360 Front Plate | Installed Front Plate |
 |---|---|
-| ![Fusion 360 Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) | ![Installed Front Plate](Rover/Semester2_Images/Mechanical/Installed_Front_Plate.png) |
+| <img src="Rover/Semester2_Images/Mechanical/FUSION_FRONT.png" width="400"> | <img src="Rover/Semester2_Images/Mechanical/Installed_Front_Plate.png" width="400"> |
 
 | Fusion 360 Skid Plate | Installed Skid Plate |
 |---|---|
-| ![Fusion 360 Skid Plate](Rover/Semester2_Images/Mechanical/Fusion_Skid_Plate.png) | ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
+| <img src="Rover/Semester2_Images/Mechanical/Fusion_Skid_Plate.png" width="400"> | <img src="Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png" width="400"> |
 ## Electrical 
 
 ## Software
