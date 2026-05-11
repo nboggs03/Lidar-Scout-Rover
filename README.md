@@ -31,7 +31,7 @@ Key mechanical features include:
 
 | Fusion 360 Skid Plate | Installed Skid Plate |
 |---|---|
-| ![Fusion 360 Skid Plate](Rover/Semester2_Images/Mechanical/Fusion_Skid.png) | ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
+| ![Fusion 360 Skid Plate](Rover/Semester2_Images/Mechanical/Fusion_Skid_Plate.png) | ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
 ## Electrical 
 
 ## Software
