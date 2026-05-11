@@ -20,7 +20,7 @@ Key mechanical features include:
 - Modular structure that allows components to be adjusted or replaced
 - Improved protection for the lower front section of the rover
 
-- ### Mechanical Images
+### Mechanical Images
 
 | Chassis Assembly | Front/Side View |
 |---|---|
