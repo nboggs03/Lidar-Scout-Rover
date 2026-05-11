@@ -21,18 +21,17 @@ Key mechanical features include:
 - Improved protection for the lower front section of the rover
 
 ### Mechanical Images
-
-| Chassis Assembly |  Finished Rover  |
+| Chassis Assembly | Finished Rover |
 |---|---|
-| ![Chassis Assembly](Rover/Semester1_Images/Mechanical/Chassis.jpeg) |  ![Finished Rover](Rover/Semester2_Images/Mechanical/Final_Rover1.png) |
+| ![Chassis Assembly](Rover/Semester1_Images/Mechanical/Chassis.jpeg) | ![Finished Rover](Rover/Semester2_Images/Mechanical/Final_Rover1.png) |
 
 | Fusion 360 Front Plate | Installed Front Plate |
 |---|---|
-| ![Fusion Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) |  ![Installed Front Plate](Rover/Semester2_Images/Mechanical/Installed_Front_Plate.png) |
+| ![Fusion 360 Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) | ![Installed Front Plate](Rover/Semester2_Images/Mechanical/FRONT_PLATE_INSTALLED.png) |
 
-|  Fusion 360 Skid Plate |  Installed Skid Plate  |
+| Fusion 360 Skid Plate | Installed Skid Plate |
 |---|---|
-| ![Fusion 360 Skid Plate](Rover/Semester2_Images/Mechanical/Fusion_Skid.png) |  ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
+| ![Fusion 360 Skid Plate](Rover/Semester2_Images/Mechanical/Fusion_Skid.png) | ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
 ## Electrical 
 
 ## Software
