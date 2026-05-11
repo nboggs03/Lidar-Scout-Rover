@@ -27,7 +27,7 @@ Key mechanical features include:
 
 | Fusion 360 Front Plate | Installed Front Plate |
 |---|---|
-| ![Fusion 360 Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) | ![Installed Front Plate](Rover/Semester2_Images/Mechanical/FRONT_PLATE_INSTALLED.png) |
+| ![Fusion 360 Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) | ![Installed Front Plate](Rover/Semester2_Images/Mechanical/Installed_Front_Plate.png) |
 
 | Fusion 360 Skid Plate | Installed Skid Plate |
 |---|---|
