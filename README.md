@@ -19,6 +19,16 @@ Key mechanical features include:
 - Organized mounting layout for LiDAR, camera, electronics, and wiring
 - Modular structure that allows components to be adjusted or replaced
 - Improved protection for the lower front section of the rover
+
+- ### Mechanical Images
+
+| Chassis Assembly | Front/Side View |
+|---|---|
+| ![Chassis Assembly](Rover/Semester1_Images/Mechanical/Chassis.jpeg) | ![Front Side View](Rover/Semester1_Images/Mechanical/Front_Side.jpeg) |
+
+| Fusion 360 Front Plate | Installed Skid Plate |
+|---|---|
+| ![Fusion Front Plate](Rover/Semester2_Images/Mechanical/FUSION_FRONT.png) | ![Installed Skid Plate](Rover/Semester2_Images/Mechanical/SKID_PLATE_INSTALLED.png) |
 ## Electrical 
 
 ## Software
