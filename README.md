@@ -73,13 +73,15 @@ Insert gas sensor wiring image here -->
 Insert Raspberry Pi / onboard electronics image here -->
 ## Software
 
-## LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System Repo
+
+LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System Repo
 
 [![LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System)
 
-## LiDAR Scout Rover Website Repo
+LiDAR Scout Rover Website Repo
 
 [![LiDAR-Scout-Rover-Website](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Website)
+
 
 ROS 2 rover system built around Unitree LiDAR L1, gas sensing, and autonomous navigation. 
 
