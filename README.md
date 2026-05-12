@@ -110,9 +110,23 @@ The software is split across three compute layers:
 
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter(4)" src="https://github.com/user-attachments/assets/a5b07722-dcce-43e2-8cfb-47f8dfe89325" />
 
-Here is the repo that goes more in depth and includes the software folders.
+Here is the repo that goes more in depth.
+
 [![LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System)
 
 As well here is the repo for the website
+
 [![LiDAR-Scout-Rover-Website](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Website)
+
+
+## Poster
+<img width="1310" height="983" alt="image" src="https://github.com/user-attachments/assets/6552a8b1-9eca-4f37-9569-f54663f428f8" />
+
+## Poster Session
+
+<img width="507" height="787" alt="image" src="https://github.com/user-attachments/assets/a9b36d28-d0db-4618-ae41-17f9c7a5c43f" />
+
+<img width="3024" height="4032" alt="IMG_2625" src="https://github.com/user-attachments/assets/b166c62b-cdbd-4d0c-9b6f-e2a79cbb219b" />
+
+
 
