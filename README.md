@@ -73,6 +73,14 @@ Insert gas sensor wiring image here -->
 Insert Raspberry Pi / onboard electronics image here -->
 ## Software
 
+## LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System Repo
+
+[![LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System)
+
+## LiDAR Scout Rover Website Repo
+
+[![LiDAR-Scout-Rover-Website](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Website)
+
 ROS 2 rover system built around Unitree LiDAR L1, gas sensing, and autonomous navigation. 
 
 LiDAR Scout Rover is a multi-computer robotics system designed to:
@@ -110,13 +118,7 @@ The software is split across three compute layers:
 
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter(4)" src="https://github.com/user-attachments/assets/a5b07722-dcce-43e2-8cfb-47f8dfe89325" />
 
-## LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System Repo
 
-[![LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System)
-
-## LiDAR Scout Rover Website Repo
-
-[![LiDAR-Scout-Rover-Website](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Website)
 
 
 
