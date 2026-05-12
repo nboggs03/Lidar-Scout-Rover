@@ -6,6 +6,10 @@ The LiDAR Scout Rover is an autonomous mobile robotics platform designed to map 
 ## Abstract 
 The LiDAR-based Scout Rover project was developed to map spaces, navigate obstacle awareness, monitor gas readings, and display live sensor feedback within a ROS 2 Jazzy system. The final platform used a distributed architecture in which an Arduino Mega handled low-level motor and gas-sensor functions, a Raspberry Pi 5 published LiDAR, camera, and bridge topics, and a workstation ran Point-LIO, Nav2, RViz2, and the main visualization tools. During testing, the rover was able to generate LiDAR maps, publish gas data, stream camera output, and execute navigation experiments with both a frontfocused obstacle pipeline, 360-degree costmap pipeline, and our final pipeline used Point_LIO and Map Corrected pipeline. The results show that a relatively compact multi-computer rover can support practical sensing and semiautonomous navigation, while also highlighting future work in TF stability, software tuning, and demonstration reliability.
 
+## DEMO Videos
+
+[![YouTube](https://shields.io)](https://www.youtube.com/channel/UCsQoXkuwZl-ijHmh91t0s0w)
+
 ## Mechanical  
 The mechanical design of the LiDAR Scout Rover focused on creating a compact tracked platform that could support the rover's sensors, electronics, power system, and future autonomous navigation features. The tracked chassis was selected to provide better traction and stability than a standard wheeled platform, especially when testing on uneven indoor surfaces or small obstacles.
 
@@ -68,3 +72,47 @@ Insert gas sensor wiring image here -->
 
 Insert Raspberry Pi / onboard electronics image here -->
 ## Software
+
+ROS 2 rover system built around Unitree LiDAR L1, gas sensing, and autonomous navigation. 
+
+LiDAR Scout Rover is a multi-computer robotics system designed to:
+- drive a tank-style rover with ROS 2 velocity commands
+- estimate motion with LiDAR-inertial odometry
+- build a live map of the environment
+- avoid obstacles while navigating to goals
+- publish gas sensor readings from the embedded layer
+
+The software is split across three compute layers:
+- `Arduino Mega`
+  low-level motor control and gas sensor sampling
+- `Raspberry Pi 5`
+  LiDAR publishing, IMU publishing, serial bridge to the Arduino, Cammera publishing
+- `Workstation / Intel NUC / laptop`
+  Point-LIO, Nav2, obstacle processing, RViz, and the main autonomy stack
+
+## POINT-LIO UHCL BAYOU 
+
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter(1)" src="https://github.com/user-attachments/assets/a9d678ab-add3-49fb-ae8e-0d421267d65e" />
+
+## POINT-LIO UHCL DELTA
+
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter(2)" src="https://github.com/user-attachments/assets/2aab6bdd-c61d-4232-a197-d264dd5c98e4" />
+
+## NAV2 V2
+
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter(3)" src="https://github.com/user-attachments/assets/883cee8c-5236-4894-9ea9-8c49a6e4c2e1" />
+
+## NAV2 V3
+
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter(5)" src="https://github.com/user-attachments/assets/2d466143-c165-4855-b4a9-49adb898744a" />
+
+## GAS SENSORS
+
+<img width="800" height="450" alt="ezgif com-video-to-gif-converter(4)" src="https://github.com/user-attachments/assets/a5b07722-dcce-43e2-8cfb-47f8dfe89325" />
+
+Here is the repo that goes more in depth and includes the software folders.
+[![LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Distributed-ROS-2-Navigation-Mapping-and-Sensing-System)
+
+As well here is the repo for the website
+[![LiDAR-Scout-Rover-Website](https://shields.io)](https://github.com/RandiRodz/LiDAR-Scout-Rover-Website)
+
